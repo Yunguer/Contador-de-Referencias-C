@@ -1,1 +1,3 @@
-# Trabalho de Linguagem de Programação de um Contador de Referencias
+# Trabalho de Linguagem de Programação
+
+Programa de um Contador de Referencias feito em C
